@@ -1,9 +1,9 @@
 ---
+layout: default
 title: Renato Busatto
 ---
 
 ![building](https://user-images.githubusercontent.com/9153475/115799041-047efc00-a3ae-11eb-98f8-f4078eb2a8e3.png)
-
 
 <p class="social-media" align="center">
   <a href="https://www.instagram.com/renatobusatto/"><img alt="Instagram" src="https://user-images.githubusercontent.com/9153475/115799589-380e5600-a3af-11eb-94c3-7e3cbb9f1e86.png" width="30"/> </a>

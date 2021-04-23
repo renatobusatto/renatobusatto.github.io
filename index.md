@@ -3,7 +3,7 @@ layout: default
 title: Renato Busatto
 ---
 
-<p class="social-buttons" align="center">
+<p class="social" align="center">
   <a href="https://www.instagram.com/renatobusatto/"><img alt="Instagram" src="https://user-images.githubusercontent.com/9153475/115799589-380e5600-a3af-11eb-94c3-7e3cbb9f1e86.png" width="30"/> </a>
   <a href="https://www.facebook.com/renatobusatto/"><img alt="Facebook" src="https://user-images.githubusercontent.com/9153475/115799729-73a92000-a3af-11eb-80ea-949ca99d5ce8.png" width="30"/> </a>
   <a href="https://twitter.com/renatobusatto"><img alt="Twitter" src="https://user-images.githubusercontent.com/9153475/115799623-4bb9bc80-a3af-11eb-8034-8534cbc32adc.png" width="30"/> </a>

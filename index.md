@@ -3,9 +3,7 @@ layout: default
 title: Renato Busatto
 ---
 
-![building](https://user-images.githubusercontent.com/9153475/115799041-047efc00-a3ae-11eb-98f8-f4078eb2a8e3.png)
-
-<p class="social-media" align="center">
+<p class="social-buttons" align="center">
   <a href="https://www.instagram.com/renatobusatto/"><img alt="Instagram" src="https://user-images.githubusercontent.com/9153475/115799589-380e5600-a3af-11eb-94c3-7e3cbb9f1e86.png" width="30"/> </a>
   <a href="https://www.facebook.com/renatobusatto/"><img alt="Facebook" src="https://user-images.githubusercontent.com/9153475/115799729-73a92000-a3af-11eb-80ea-949ca99d5ce8.png" width="30"/> </a>
   <a href="https://twitter.com/renatobusatto"><img alt="Twitter" src="https://user-images.githubusercontent.com/9153475/115799623-4bb9bc80-a3af-11eb-8034-8534cbc32adc.png" width="30"/> </a>
@@ -21,3 +19,5 @@ title: Renato Busatto
   <a href=""><img alt="" src="" width="30"/> </a>
   <a href=""><img alt="" src="" width="30"/> </a>
 </p>
+
+![building](https://user-images.githubusercontent.com/9153475/115799041-047efc00-a3ae-11eb-98f8-f4078eb2a8e3.png)

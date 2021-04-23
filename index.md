@@ -18,4 +18,5 @@ title: Renato Busatto
   <a href="https://soundcloud.com/renatobusatto"><img alt="Soundcloud" src="https://user-images.githubusercontent.com/9153475/115799656-5a07d880-a3af-11eb-964d-39286cfe6bc7.png" width="30"/></a>
 </p>
 
-![building](https://user-images.githubusercontent.com/9153475/115799041-047efc00-a3ae-11eb-98f8-f4078eb2a8e3.png)
+![building](https://user-images.githubusercontent.com/9153475/115804778-0c449d80-a3ba-11eb-8836-248a91a02a74.png)
+
